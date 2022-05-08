@@ -13,6 +13,8 @@ class BookInfo(models.Model):
     # 出版日期，DateField说明是一个日期类型
     bpub_date = models.DateField()
 
+
+
 # 多类
 # 英雄人物类
 # 英雄名 name
